@@ -1,1 +1,1 @@
-# TrueMood_EmotionRecognition_ModelTraining
+# TrueMood - Emotion Recognition - Model Training
