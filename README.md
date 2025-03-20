@@ -21,9 +21,9 @@
 
 ## Android Integration
 The trained model is integrated into a real-time Android app.
-- ✅ **Check it out here :** [GitHub Repo](https://github.com/achelmasoudi/TrueMood_App)
+- ✅ **Check it out here :** [TrueMood Android App](https://github.com/achelmasoudi/TrueMood_App)
 
 <br/>
 
 ## Documentation
-For a detailed explanation of the project, including methodology, model architecture, and results, see the attached PDF: [TrueMood_Model_Training_Report](https://github.com/user-attachments/files/19366827/TrueMood_DuyguAnalizi.pdf)
+For a detailed explanation of the project, including methodology, model architecture, and results, see the attached PDF: [TrueMood Model Training Report](https://github.com/user-attachments/files/19366827/TrueMood_DuyguAnalizi.pdf)
