@@ -1,4 +1,3 @@
-
 ## **TrueMood - Emotion Recognition ( Model Training )** 
 **TrueMood** is a project focused on recognizing human emotions using machine learning. This repository contains the model training code and related resources to analyze and predict emotions based on input data.
 
